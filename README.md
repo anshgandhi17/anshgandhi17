@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anshgandhi17
 - 👀 I’m interested in ... software development and front-end development
-- 🌱 I’m currently learning ... react and enhancing my css skills
+- 🌱 I’m currently learning ... ReactJS and enhancing my css skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... at anshgandhi6sep@gmail.com
 
