@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anshgandhi17
-- 👀 I’m interested in ... software development and front-end development
-- 🌱 I’m currently learning ... ReactJS and enhancing my css skills
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in machine learning and software development (with full-stack and automation testing expereince) 
+- 🌱 I’m currently learning working with ML libraries and learning some NLP and Deep Learning outside of work
+- 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me ... at anshgandhi6sep@gmail.com
 - My resume [Ansh_Gandhi_Resume_Fall2024.pdf](https://github.com/user-attachments/files/16751335/Ansh_Gandhi_Resume_Fall2024.pdf)
 
