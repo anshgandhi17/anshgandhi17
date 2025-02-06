@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning working with ML libraries and learning some NLP and Deep Learning outside of work
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me ... at anshgandhi6sep@gmail.com
-- My resume [Ansh_Gandhi_Resume.pdf](Ansh_Gandhi_Resume.pdf)
+- My resume [Ansh_Gandhi_Resume.pdf](https://drive.google.com/file/d/18RMTaocl5hRHXe2javApWPNUjuuYKqa3/view?usp=sharing)
 
 <!---
 anshgandhi17/anshgandhi17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
