@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning working with ML libraries and learning some NLP and Deep Learning outside of work
 - 💞️ I’m looking to collaborate on machine learning project
 - 📫 How to reach me ... at anshgandhi6sep@gmail.com
-- Checkout my personal website at https://main.d124et8xqntuct.amplifyapp.com/
+- Checkout my [personal website](https://main.d124et8xqntuct.amplifyapp.com/)
 
 <!---
 anshgandhi17/anshgandhi17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
